@@ -16,10 +16,10 @@
     <name>registration</name>
     <description>registration</description>
 
-    <properties>
-        <java.version>15</java.version>
-        <maven.version>3.8.1</maven.version>
-    </properties>
+<!--    <properties>-->
+<!--        <java.version>15</java.version>-->
+<!--        <maven.version>3.8.1</maven.version>-->
+<!--    </properties>-->
 
     <dependencies>
 
