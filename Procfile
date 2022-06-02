@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.team1.registration
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.team1.registration.RegistrationApplication
