@@ -1,0 +1,1 @@
+web: java -jar target/TEAM-3-1.jar
